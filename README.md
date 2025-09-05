@@ -93,25 +93,3 @@ flowchart TD
     **Finance, Sales, and HR domains**.
 
 ------------------------------------------------------------------------
-
-## 📸 Dashboard Snapshots
-
-*(Add screenshots here once uploaded)*
-
-------------------------------------------------------------------------
-
-## 📂 Repository Structure
-
-    ├── data/                  # Sample dataset (if allowed to share)
-    ├── dashboards/            # Power BI .pbix files
-    ├── images/                # Screenshots of dashboards
-    └── README.md              # Project Documentation
-
-------------------------------------------------------------------------
-
-## 🙌 Author
-
-Developed by **\[Your Name\]**\
-For queries, reach out via [LinkedIn](https://www.linkedin.com) \|
-[GitHub](https://github.com)
-
