@@ -6,6 +6,11 @@ The goal was to design a **data model, create DAX measures, and develop
 interactive dashboards** to empower stakeholders with **data-driven
 decisions**.
 
+<p align = "center">
+<img width="400" alt="Screenshot 2025-03-12 at 12 35 09 PM" src="https://github.com/user-attachments/assets/51034990-7f2e-4b39-a57d-af7186c86e37" />
+<img width="400" alt="Screenshot 2025-03-12 at 12 34 54 PM" src="https://github.com/user-attachments/assets/6d4772f3-8752-4967-95f2-84c8fd4d744f" />
+</p>
+
 ------------------------------------------------------------------------
 
 ## 🚀 Project Overview
@@ -54,10 +59,6 @@ decisions**.
     and Age Pyramid**.\
 -   Enabled HR managers to monitor **workforce diversity, retention, and
     growth trends**.
-<p align = "center">
-<img width="400" alt="Screenshot 2025-03-12 at 12 35 09 PM" src="https://github.com/user-attachments/assets/51034990-7f2e-4b39-a57d-af7186c86e37" />
-<img width="400" alt="Screenshot 2025-03-12 at 12 34 54 PM" src="https://github.com/user-attachments/assets/6d4772f3-8752-4967-95f2-84c8fd4d744f" />
-</p>
 
 ------------------------------------------------------------------------
 
